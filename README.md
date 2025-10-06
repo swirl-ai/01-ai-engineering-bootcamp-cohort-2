@@ -31,7 +31,7 @@ make run-docker-compose
 #### To run evals, execute:
 
 ```bash
-make run-evals
+make run-evals-retriever
 ```
 
 Streamlit application: http://localhost:8501
