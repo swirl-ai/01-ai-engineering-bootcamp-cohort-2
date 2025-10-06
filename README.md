@@ -28,9 +28,17 @@ Keep the remaining configuration as per ```.env.example```.
 make run-docker-compose
 ```
 
+#### To run evals, execute:
+
+```bash
+make run-evals
+```
+
 Streamlit application: http://localhost:8501
 
 FastAPI documentation: http://localhost:8000/docs
+
+Qdrant UI: http://localhost:6333/dashboard
 
 
 ## This repository uses data provided by the authors of the following paper.
